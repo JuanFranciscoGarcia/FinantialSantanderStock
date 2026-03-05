@@ -26,7 +26,7 @@ The project is primarily built using:
 - **Jupyter Notebook** – interactive analysis environment
 - **Financial data APIs** (e.g., Yahoo Finance)
 
-These tools are commonly used in financial analytics and portfolio analysis workflows. :contentReference[oaicite:0]{index=0}
+These tools are commonly used in financial analytics and portfolio analysis workflows.
 
 ## 📁 Project Structure
 
@@ -49,15 +49,7 @@ git clone https://github.com/JuanFranciscoGarcia/FinantialSantanderStock.git
 cd FinantialSantanderStock
 2. Install dependencies
 pip install pandas numpy matplotlib seaborn yfinance jupyter
-3. Run the notebooks
-jupyter notebook
+3. Run the notebooks jupyter notebook
 
-Open the analysis notebook and run the cells to reproduce the analysis and visualizations.
-
-
-
-
-
-Integrating additional financial datasets
 
 Enhancing documentation
